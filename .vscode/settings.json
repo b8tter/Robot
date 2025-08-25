@@ -1,0 +1,62 @@
+{
+    "files.associations": {
+        "system.h": "c",
+        "robotstatus.h": "c",
+        "odom.h": "c",
+        "control.h": "c",
+        "mpu.h": "c",
+        "string": "c",
+        "mpid.h": "c",
+        "matrx_mul.h": "c",
+        "malloc.h": "c",
+        "encoder.h": "c",
+        "map.h": "c",
+        "scan.h": "c",
+        "hw.h": "c",
+        "state_machines.h": "c",
+        "stdio.h": "c",
+        "matrix_mul.h": "c",
+        "string.h": "c",
+        "bsp_usart.h": "c",
+        "usart3.h": "c",
+        "hd.h": "c",
+        "stm32f4xx.h": "c",
+        "exti.h": "c",
+        "show.h": "c",
+        "bheap.h": "c",
+        "astar.h": "c",
+        "dma.h": "c",
+        "math.h": "c",
+        "usart6.h": "c",
+        "ultrasonic.h": "c",
+        "oledfont.h": "c",
+        "oled.h": "c",
+        "stdlib.h": "c",
+        "key.h": "c",
+        "limits": "c",
+        "memory": "c",
+        "pstwo.h": "c",
+        "iwdg.h": "c",
+        "bsp_exti.h": "c",
+        "stdarg.h": "c"
+    },
+    "MicroPython.executeButton": [
+        {
+            "text": "▶",
+            "tooltip": "运行",
+            "alignment": "left",
+            "command": "extension.executeFile",
+            "priority": 3.5
+        }
+    ],
+    "MicroPython.syncButton": [
+        {
+            "text": "$(sync)",
+            "tooltip": "同步",
+            "alignment": "left",
+            "command": "extension.execute",
+            "priority": 4
+        }
+    ],
+    "commentTranslate.source": "Bing"
+}
