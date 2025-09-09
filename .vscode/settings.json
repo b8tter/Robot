@@ -38,7 +38,8 @@
         "pstwo.h": "c",
         "iwdg.h": "c",
         "bsp_exti.h": "c",
-        "stdarg.h": "c"
+        "stdarg.h": "c",
+        "global.h": "c"
     },
     "MicroPython.executeButton": [
         {
@@ -58,5 +59,7 @@
             "priority": 4
         }
     ],
-    "commentTranslate.source": "Bing"
+    "commentTranslate.source": "Bing",
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+    "C_Cpp.errorSquiggles": "enabled"
 }
